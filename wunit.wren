@@ -15,7 +15,7 @@ class WUnit{
     fiber.call()
     fiber.call(this)
     if (!_isFailed){
-      pass(_name)
+      pass(_desc)
     }
     report()
   }
