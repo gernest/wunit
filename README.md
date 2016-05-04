@@ -5,7 +5,7 @@ A classy unit testing library for wren programming langage
 
 Clone this at the root of your project
 ```bash
-git clone 
+git clone git@github.com:gernest/wunit.git
 ```
 
 # Usage
